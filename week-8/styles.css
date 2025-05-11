@@ -22,8 +22,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
    margin: 0;
@@ -35,7 +35,7 @@ time, mark, audio, video {
 }
 
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
    display: block;
 }
@@ -45,7 +45,7 @@ body {
    width: 960px;
    background: white;
    margin: 0 auto;
-   font-family: Verdana, Geneva, sans-serif; 
+   font-family: Verdana, Geneva, sans-serif;
 }
 
 ol, ul {
@@ -133,7 +133,7 @@ fieldset p {
    position: absolute;
    top: 10px;
    right: 10px;
-   
+
 }
 
 fieldset input[type="text"] {
@@ -161,8 +161,8 @@ p#errorBox {
    border: 1px solid red;
    background-color: white;
    padding: 15px;
-   
-   
+
+
 }
 input[type="text"]:invalid {
    background-color: rgba(255, 0, 0, 0.3);
@@ -176,7 +176,7 @@ section > h1 {
 table {
    margin-left: 30px;
    border-collapse: collapse;
-   width 48%;
+   width: 48%;
    float: left;
    margin-right: 1%;
 }
